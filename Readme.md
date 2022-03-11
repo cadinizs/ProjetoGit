@@ -1,0 +1,1 @@
+Arquivo teste para aprender a usar o Git.
